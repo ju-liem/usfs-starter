@@ -1,7 +1,7 @@
 {
-  "name": "us-forms-system-starter-app",
-  "version": "1.0.0",
-  "description": "Test US Forms System",
+  "name": "usfs-starter",
+  "version": "0.0.1",
+  "description": "Awesome form based on us-forms-system",
   "main": "index.js",
   "directories": {},
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/usds/us-forms-system-starter-app.git"
+    "url": "git+https://github.com/ju-liem/usfs-starter.git"
   },
   "author": "",
   "license": "ISC",
